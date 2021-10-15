@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://64bitmax.github.io/vladan-website/'
 languageCode = 'en-us'
 title = 'Vladan'
 theme = 'silhouette-hugo'
