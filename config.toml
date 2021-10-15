@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Vladan'
+theme = 'silhouette-hugo'
+
+[params]
+	author = "Vladan"
+	description = "Vladan company website for New World"
+	keywords = "new world,blog,company,vladan,antares"
